@@ -1,4 +1,4 @@
-string = 'a b c d '
+string = input('Zadej text: ')
 words = 0
 spaces = 0
 chars = 0
